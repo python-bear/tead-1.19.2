@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "tead:item/plate_boots_underlay",
+    "layer1": "tead:item/diamond_plate_boots"
+  }
+}

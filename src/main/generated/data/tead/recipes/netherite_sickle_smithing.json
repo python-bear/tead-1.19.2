@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "addition": {
+    "item": "minecraft:netherite_ingot"
+  },
+  "base": {
+    "item": "tead:diamond_sickle"
+  },
+  "result": {
+    "item": "tead:netherite_sickle"
+  }
+}

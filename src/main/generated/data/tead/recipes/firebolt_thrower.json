@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "minecraft:crossbow"
+    },
+    "$": {
+      "item": "minecraft:flint_and_steel"
+    },
+    "%": {
+      "item": "minecraft:string"
+    },
+    "&": {
+      "item": "minecraft:red_dye"
+    }
+  },
+  "pattern": [
+    "&$&",
+    "%#%",
+    "%%%"
+  ],
+  "result": {
+    "item": "tead:firebolt_thrower"
+  },
+  "show_notification": true
+}
